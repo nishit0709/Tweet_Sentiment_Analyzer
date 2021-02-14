@@ -3,3 +3,4 @@ textblob == 0.15.3
 pandas == 0.21.0
 streamlit == 0.76.0
 opencage == 1.2.2
+plotly==4.14.3
