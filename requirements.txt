@@ -1,4 +1,4 @@
 tweepy == 3.5.0
-textblob == 0.16.0
+textblob == 0.16.1
 pandas == 1.2.2
 streamlit == 0.76.0
